@@ -1,0 +1,27 @@
+*{margin: 0; padding: 0;}
+
+header{
+	width: 100%;
+	overflow: hidden;
+	background: #273a42;
+	margin-bottom: 200px;
+}
+
+header .deporte{
+	color:#fdfeff;
+	font-size: 50px;
+	line-height: 185px;
+	float: left;
+}
+
+.wrapper{
+	width: 100%;
+	max-width: 500px;
+	margin: auto;
+	overflow: hidden;
+}
+
+.contenido p{
+	margin-bottom:1em;
+	
+}

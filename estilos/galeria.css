@@ -1,0 +1,56 @@
+body{
+	background-image:url(../img/fondo3.jpg);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	background-attachment:fixed;
+}
+
+.contenedor-galeria{
+	width:657px;
+	height:502px;
+	position:absolute;
+	left:50%;
+	top:228%;
+	transform: translate(-50%, -50%);
+	-o-transform: translate(-50%, -50%);
+	-moz-transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	-webkit-transform: translate(-50%, -50%);
+	background-color:black;
+}
+
+.ga1{
+	float:left;
+	width:657px;
+	height:250px;
+	background-image:url(../img/ga1.jpg);
+	background-position:center;
+}
+
+.ga2{
+	float:left;
+	margin-right:225px;
+	width:221px;
+	height:252px;
+	background-image:url(../img/ga2.jpg);
+	background-position:center;
+}
+
+.ga4{
+	float: left;
+   	width: 211px;
+    	height: 252px;
+    	background-image: url(../img/ga4.jpg);
+    	background-position: center;
+}
+
+.ga3{
+    	float: left;
+    	margin-left: 225px;
+   	margin-top: -252px;
+   	width: 219px;
+    	height: 252px;
+   	background-image: url(../img/ga3.jpg);
+   	background-position: center;
+}
